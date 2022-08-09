@@ -1,6 +1,6 @@
 ## Olá! Eu sou o João
 
-- 🤖 Buscadno me especializar em desenvolvimento web
+- 🤖 Buscando me especializar no desenvolvimento web
 - 💻 Formado em Análise e Desenvolvimento de Sistemas
 - 🌱 Estudando NodeJS e ReactJS
 
