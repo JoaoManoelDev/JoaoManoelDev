@@ -1,7 +1,7 @@
 ## Olá! Eu sou o João
 
-- 🤖 Iniciante em programação web
-- 💻 Cursando Análise e Desenvolvimento de Sistemas
+- 🤖 Buscadno me especializar em desenvolvimento web
+- 💻 Formado em Análise e Desenvolvimento de Sistemas
 - 🌱 Estudando NodeJS e ReactJS
 
  <div>
