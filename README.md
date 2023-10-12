@@ -19,7 +19,7 @@
       <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
         <div>
           <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="icon" width="38"height="56"
+            src="https://skillicons.dev/icons?i=html" alt="icon" width="38" height="60"
           />
         </div>
       </a>
@@ -29,7 +29,7 @@
       <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
         <div>
           <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="icon" height="56" width="38"                />
+            src="https://skillicons.dev/icons?i=css" alt="icon" width="38" height="60" />
         </div>
       </a>
       <p>CSS</p>
@@ -38,7 +38,7 @@
       <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
         <div>
           <img
-            src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="56"
+            src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="60" height="60"
           />
         </div>
       </a>
@@ -48,7 +48,7 @@
       <a href="https://www.typescriptlang.org/pt/">
         <div>
           <img
-            src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="56"
+            src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="60" height="60"
           />
         </div>
       </a>
@@ -58,7 +58,7 @@
       <a href="https://pt-br.react.dev/">
         <div>
           <img
-            src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="56"
+            src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="44" height="60"
           />
         </div>
       </a>
@@ -68,7 +68,7 @@
       <a href="https://nextjs.org/">
         <div>
           <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="icon" height="56" width="56"
+            src="https://skillicons.dev/icons?i=next" alt="icon" height="56" width="38" height="60"
           />
         </div>
       </a>
@@ -78,7 +78,7 @@
       <a href="https://tailwindcss.com/">
         <div>
           <img
-            src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="icon" height="56" width="56"
+            src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="icon" width="38" height="60"
           />
         </div>
       </a>
@@ -88,17 +88,17 @@
       <a href="https://styled-components.com/">
         <div>
           <img
-            src="https://emojigraph.org/media/apple/nail-polish_1f485.png" alt="icon" height="56" width="56"
+            src="https://skillicons.dev/icons?i=styledcomponents" alt="icon" width="38" height="60"
           />
         </div>
       </a>
       <p>Styled C.</p>
     </td>
     <td align="center" width="96">
-      <a href="">
+      <a href="https://next-auth.js.org/">
         <div>
           <img
-            src="https://github.com/nextauthjs/next-auth/blob/main/docs/static/img/logo/logo.png" alt="icon" height="56" width="56"
+            src="https://next-auth.js.org/img/logo/logo-sm.png" alt="icon" width="50" height="60"
           />
         </div>
       </a>
@@ -111,7 +111,7 @@
       <a href="https://nodejs.org/">
         <div>
           <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="icon" height="56" width="56"
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="icon" width="38" height="60"
           />
         </div>
       </a>
@@ -121,7 +121,7 @@
       <a href="https://nodejs.org/">
         <div>
           <img
-            src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" height="56" width="56"
+            src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="60" height="60"
           />
         </div>
       </a>
@@ -131,7 +131,7 @@
       <a href="https://sequelize.org/">
         <div>
           <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original.svg" alt="icon" height="56" width="56"
+            src="https://skillicons.dev/icons?i=sequelize" alt="icon" width="40" height="60" 
           />
         </div>
       </a>
@@ -141,7 +141,7 @@
       <a href="https://www.prisma.io/">
         <div>
           <img
-            src="https://i.pinimg.com/originals/39/b2/e4/39b2e4ad77c23a2c11e5950a7dfa2aec.png" alt="icon" height="56" width="56"
+            src="https://skillicons.dev/icons?i=prisma" alt="icon" width="38" height="60" 
           />
         </div>
       </a>
@@ -151,7 +151,7 @@
       <a href="https://expressjs.com/">
         <div>
           <img
-            src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="icon" height="56" width="56"
+            src="https://skillicons.dev/icons?i=express" alt="icon" width="38" height="60" 
           />
         </div>
       </a>
@@ -171,7 +171,7 @@
       <a href="https://clerk.com/">
         <div>
           <img
-            src="https://clerk.com/_next/image?url=%2Fimages%2Fclerk-logomark-square.svg&w=1920&q=75" alt="icon" height="56" width="56"
+            src="https://clerk.com/_next/image?url=%2Fimages%2Fclerk-logomark-square.svg&w=1920&q=75" alt="icon" width="38" height="60"
           />
         </div>
       </a>
@@ -181,7 +181,7 @@
       <a href="https://git-scm.com/">
         <div>
           <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="icon" height="56" width="56"
+            src="https://skillicons.dev/icons?i=git" alt="icon" width="38" height="60"
           />
         </div>
       </a>
