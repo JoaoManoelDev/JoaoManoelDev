@@ -3,9 +3,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=76E4F7&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+João+Manoel;Seja+bem+-+vindo!+:%29)](https://git.io/typing-svg)
 
 <div align="center"  >  
-  <div> 💻 Formado em Análise e Desenvolvimento de Sistemas </div>
-  <div> 🤖 Desenvolverdor Front End e Back End</div>
-  <div> 🌱 Estudando NodeJS e ReactJS </div>
+  <div> :computer: Formado em Análise e Desenvolvimento de Sistemas </div>
+  <div> :robot: Desenvolverdor web Front End e Back End</div>
+  <div> :dart: Em busca de novos desafios </div>
 </div>
 
 ---
